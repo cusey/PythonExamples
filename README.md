@@ -9,3 +9,4 @@
 * [Impatient Programmer - YouTube](https://www.youtube.com/channel/UCPme28sMOcWS50CgtTWUZIw)
 * [James Powell - So you want to be a Python expert - YouTube](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 * [MrSensharma - YouTube](https://www.youtube.com/playlist?list=PLTOBJKrkhpoMdsT9RUERSDdEVrViykAEQ)
+* [Python 3 Metaprogramming - YouTube] (https://www.youtube.com/watch?v=sPiWg5jSoZI)
