@@ -24,3 +24,15 @@ def Main():
     
 if __name__ == '__main__':
     Main()
+    
+'''
+OUTPUT:
+
+** TEMPLATES **
+Cart:
+2 x Coke = 8
+1 x Cake = 12
+4 x Fish = 32
+Total: 52
+
+'''
