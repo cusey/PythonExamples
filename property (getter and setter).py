@@ -8,10 +8,12 @@ class lovelypython():
     def __init__(self):
         self._myname = "Albert"
 
+   # GETTER     
     @property
     def myname(self):
         return self._myname + " is awesome"
 
+    # SETTER
     @myname.setter
     def myname(self, val):
         self._myname = val
