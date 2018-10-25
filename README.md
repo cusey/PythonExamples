@@ -1,4 +1,6 @@
-# PythonExamples
+# PythonExamples    
+
+![Python](https://github.com/cusey/ImageForWiki/blob/master/Logos/Python.PNG)    
 
 # References:
 * [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
