@@ -1,6 +1,6 @@
-# PythonExamples    
+![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)
 
-![Python](https://github.com/cusey/ImageForWiki/blob/master/Logos/Python.PNG)    
+# PythonExamples    
 
 <img 
 src="https://github.com/cusey/ImageForWiki/blob/master/Logos/Python.PNG" 
