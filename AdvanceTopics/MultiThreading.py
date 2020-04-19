@@ -27,23 +27,3 @@ def Main():
 if __name__ == '__main__':
     Main()
     
-'''
-OUTPUT:
-
-Timer: Timer1 Started
-Timer: Timer2 Started
-Main Completed
-Timer1 : Mon Sep 24 16:09:41 2018
-Timer1 : Mon Sep 24 16:09:42 2018
-Timer2 : Mon Sep 24 16:09:42 2018
-Timer1 : Mon Sep 24 16:09:43 2018
-Timer1 : Mon Sep 24 16:09:44 2018
-Timer2 : Mon Sep 24 16:09:44 2018
-Timer1 : Mon Sep 24 16:09:45 2018
-Timer: Timer1 Completed
-Timer2 : Mon Sep 24 16:09:46 2018
-Timer2 : Mon Sep 24 16:09:48 2018
-Timer2 : Mon Sep 24 16:09:50 2018
-Timer: Timer2 Completed
-
-'''
