@@ -1,11 +1,6 @@
 #python 3.5.2
 
-'''
-
-'''
-
-
-#Greatest Common Divisor (gcd) is a example of HELPER METHOD
+#Gretest Common Divisor (gcd) is a example of HELPER METHOD
 
 def gcd(a,b): 
     if a > b: a,b = b,a
