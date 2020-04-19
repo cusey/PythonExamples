@@ -1,6 +1,7 @@
 #python 3.5.2
 
 class lovely():
+
     def __init__(self):
         self._name = "Albert"
 
@@ -14,10 +15,10 @@ class lovely():
     def name(self, val):
         self._name = val
 
-
 gao = lovely()
 gao.name = "Gao"
 print(gao.name)
+
 
 
 
