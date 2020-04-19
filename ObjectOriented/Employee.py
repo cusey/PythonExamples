@@ -27,8 +27,6 @@ milton.hours = 12
 print("Employee Name: " + milton.name())
 print("Monthly Salary: " + str( milton.calculate_wage()))
 
-
-
 print("\n"*2)
 print (" *** Part-Time Employee *** ");
 ken=PartTimeEmployee("Ken", "Jones")

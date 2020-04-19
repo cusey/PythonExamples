@@ -15,9 +15,12 @@ class lovely():
         self._name = val
 
 
-l = lovely()
-l.name = "Gao"
-print(l.name)
+gao = lovely()
+gao.name = "Gao"
+print(gao.name)
+
+
+
 
 
 
